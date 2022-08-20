@@ -1,0 +1,8 @@
+{"id":"event_1", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1660961001}
+{"id":"event_2", "state":"STARTED", "timestamp":1660962064}
+{"id":"event_3", "state":"FINISHED", "timestamp":1660969064}
+{"id":"event_1", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1660964064}
+{"id":"event_3", "state":"STARTED", "timestamp":1660964064}
+{"id":"event_2", "state":"FINISHED", "timestamp":1660966064}
+{"id":"event_4", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1660967064}
+{"id":"event_4", "state":"STARTED", "timestamp":1660966064}
